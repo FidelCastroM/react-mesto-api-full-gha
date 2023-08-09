@@ -1,0 +1,4 @@
+.element__basket_hidden {
+    visibility: hidden;
+    opacity: 0;
+}

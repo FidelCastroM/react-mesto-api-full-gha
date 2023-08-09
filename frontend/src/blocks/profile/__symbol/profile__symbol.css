@@ -1,0 +1,10 @@
+.profile__symbol {
+    color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+    .profile__symbol {
+        width: 16px;
+        height: 16px;
+    }
+}

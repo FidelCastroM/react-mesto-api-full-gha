@@ -1,0 +1,12 @@
+.element__like {
+    background: url(../../../images/cerdce.svg);
+    background-color: #fff;
+    border: 0;
+    min-width: 22px;
+    min-height: 19px;
+    cursor: pointer;
+}
+
+.element__like:hover {
+    opacity: 0.5;
+}

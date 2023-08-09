@@ -1,0 +1,15 @@
+.registration__link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    margin: 0;
+    margin-top: 15px;
+ }
+ 
+.registration__link-button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+ }
